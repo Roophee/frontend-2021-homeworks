@@ -1,6 +1,6 @@
 "use strict";
 
-const delimiter = '; '
+const delimiter = '; ';
 
 class Inhabitant {
     constructor(name, gender, saying, legs = 4, tail = 1) {
